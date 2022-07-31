@@ -1,0 +1,903 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <nav id="navbar">
+        <header>indian cricket player record history Documentation</header>
+        <ul>
+            <li><a class="nav-link" href="#sachin_tendulkar">Sachin Tendulkar</a></li>
+            <li>
+                <a class="nav-link" href="#Virat_Kohli"> Virat Kohli</a>
+            </li>
+            <li>
+                <a class="nav-link" href="#Rohit_sharma">Rohit sharma</a>
+            </li>
+            <li><a class="nav-link" href="#mahendra_singh_dhoni">mahendra singh dhoni</a></li>
+            <li><a class="nav-link" href="#Rahul_Dravid">Rahul Dravid</a></li_
+            <li>
+                <a class="nav-link" href="#Ravichandran_Ashwin">Ravichandran Ashwin</a>
+            </li>
+            <li><a class="nav-link" href="#kapil_dev">Kapil Dev</a></li>
+        </ul>
+    </nav>
+
+
+    <main id="main-doc">
+        <section class="main-section" id="sachin_tendulkar">
+            <header>Sachin Tendulkar</header>
+            <article>
+<p>Sachin Ramesh Tendulkar AO BR pronounced (born 24 April 1973) is an Indian former international cricketer who captained the Indian national team. He is regarded as one of the greatest batsmen in the history of cricket.</p>
+                <ul>
+                    <li>
+                        Most matches in career (200)
+                        (test match)
+                    </li>
+
+
+                    <li>
+
+                        Most hundreds in a career (51)
+                        (test match)
+                    </li>
+                    <li>
+                        Two unbeaten fifties in a match
+                        (test match)
+                    </li>
+                    <li>
+                        Most fours in career (2058+)
+                        (test match)
+                    </li>
+                    <li>
+                        5000 runs and 50 fielding dismissals
+                        (test match)
+                    </li>
+                    <li>
+
+                        Longest careers (22y 91d)
+                        (one day international)
+                    </li>
+                    <li>
+
+                        Most hundreds against one team (9)
+                        (one day international)
+                    </li>
+                    <li>
+
+                        Most fifties in career (145)
+                        (one day international)
+                    </li>
+                    <li>
+
+                        Most fours in career (2016)
+                        (one day international)
+                    </li>
+                    <li>
+
+                        Most wickets taken stumped (22)
+                        (one day international)
+                    </li>
+                    <li>
+                        A hundred and four wickets in an innings
+                        (one day international)
+                    </li>
+                    <li>
+
+                        5000 runs and 50 fielding dismissals
+                        (one day international)
+                    </li>
+
+                    <li>
+                        Most player-of-the-series awards (20)
+                        (test,odi,t-20)
+                    </li>
+                    <li>
+
+                        Most hundreds against one team (20)
+                        (test,odi,t-20)
+                    </li>
+                    <li>
+
+                        Most fifties in career (264)
+                        (test,odi,t-20)
+                    </li>
+
+                    <li>
+                        Most fours in career (4076+)
+                        (test,odi,t-20)
+                    </li>
+
+                    <li>
+
+                        Most runs in career (34357)
+                        (test,odi,t-20)
+                    </li>
+
+                    <li>
+                        Most nineties in career (28)
+                        (test,odi,t-20)
+
+                    </li>
+                    <li>
+                        Most consecutive innings without a duck (136*)
+                        (test,odi,t-20)
+                    </li>
+                </ul>
+            </article>
+
+            <code>
+                void main()
+                {printf("SACHIN TENDULKER");
+                }
+                
+            </code>
+        </section>
+        <section class="main-section" id="Virat_Kohli">
+            <header>Virat Kohli</header>
+            <article>
+<p>Virat Kohli (born 5 November 1988) is an Indian international cricketer and former captain of the India national cricket team.</p>
+
+                <ul>
+                    <li>
+                        6th Most matches as captain (68)
+
+                        Test matches
+                    </li>
+                    <li>
+
+                        Hundred in each innings of a match
+
+                        Test matches
+
+
+                    </li>
+
+                    <li>
+                        Hundred and a duck in a match
+                        (Test matches)
+                    </li>
+
+                    <li>
+                        5000 runs and 50 fielding dismissals
+                    </li>
+
+                    <li>
+                        Most player-of-the-series awards (9)
+
+                        One-Day Internationals
+                    </li>
+
+                    <li>
+                        Highest career batting average (57.68)
+
+                        One-Day Internationals
+                    </li>
+
+                    <li>
+
+                        Dismissed for 99 (and 199, 299 etc) (99)
+
+                        One-Day Internationals
+                    </li>
+
+                    <li>
+
+                        Most fours in career
+                        6th
+                        Most fours in career (1159)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+
+                        Fastest to 12000 runs (242)
+                    </li>
+                    <li>
+                        Most hundreds against one team (9)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        4th
+                        Most innings before first duck (47)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        2nd
+                        Fastest to 2500 runs (68)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        9th
+                        Most catches in career (284)
+
+                        Combined Test, ODI and T20I records
+                    </li>
+                </ul>
+            </article>
+             <code>   void main()
+                {printf("VIRAT KOHLI");
+                }</code>
+        </section>
+        <section class="main-section" id="Rohit_sharma">
+            <header>Rohit sharma</header>
+            <article>
+                <p>Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer who is the current captain of the Indian national team. He is a right-handed opening batsman, and an occasional right-arm off break bowler</p>
+                <p>He plays for Mumbai in domestic cricket. He captains Mumbai Indians in the Indian Premier League and they have won the tournament a record five times under his leadership.</p>
+                <ul>
+                    <li>Hundred on debutrecord
+                        Hundred on debut (177)</li>
+                    <li>
+
+                        4th
+                        Highest partnership for the seventh wicket (280)
+
+                        Test matches
+
+
+                    </li>
+                    <li>
+
+                        2nd
+                        Hundreds in consecutive innings (3)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        1st
+                        Most runs from fours and sixes in an innings (186)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        3rd
+                        Fastest to 9000 runs (217)
+
+                        One-Day Internationals
+
+                    </li>
+                    <li>
+                        1st
+                        Most matches in career (128)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        1st
+                        Most fifties in career (30)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        7th
+                        Fastest to 2500 runs (92)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        10th
+                        Highest partnership for the first wicket (165)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        3rd
+                        Most sixes in career (471)
+
+                        Combined Test, ODI and T20I records
+                    </li>
+                    <li>
+                        Hundred in each innings of a match
+
+                        Test matches
+                    </li>
+                    <li>
+                        1st
+                        Most runs in an innings (by batting position) (264)
+
+                        One-Day Internationals
+
+
+                    </li>
+                    <li>
+                        1st
+                        Dismissed for 99 (and 199, 299 etc) (99)
+
+                        One-Day Internationals
+
+                    </li>
+                </ul>
+            </article>
+             <code>
+                    void main()
+                {printf("ROHIT SHARMA");
+                }
+             </code>
+        </section>
+        <section class="main-section" id="mahendra_singh_dhoni">
+            <header>mahendra singh dhoni</header>
+            <article>
+                <p>Mahendra Singh Dhoni born 7 July 1981) is an Indian professional cricketer who was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. He is a right-handed wicket-keeper batsman.</p>
+                <p>He led the team to three ICC trophies including the 2007 ICC World Twenty20, 2011 ICC Cricket World Cup and 2013 ICC Champions Trophy. Under his captaincy, India won the Asia Cup two times, in 2010 and 2016</P>
+                <ul>
+                    <li>
+
+                        5th
+                        Most dismissals in an innings (6)
+
+                        Test matches
+                    </li>
+                    <li>
+
+                        5th
+                        Most catches in an innings (6)
+
+                        Test matches
+                    </li>
+                    <li>
+                        3rd
+                        Most stumpings in career (38)
+
+                        Test matches
+                    </li>
+                    <li>
+
+                        300 runs and 15 wicketkeeping dismissals in a series
+
+                        Test matches
+                    </li>
+                    <li>
+                        6th
+                        Most player-of-the-series awards (7)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        9th
+                        Most matches in career (350)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        4th
+                        Most catches in career (321)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+
+                        1st
+                        Most stumpings in an innings (3)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        9th
+                        Highest career batting average (50.57)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        5th
+                        Most sixes in career (229)
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        A hundred and four dismissals in an innings
+
+                        One-Day Internationals
+                    </li>
+                    <li>
+                        1st
+                        Most dismissals in an innings (5)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+
+                        1st
+                        Captains who have kept wicket (72)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        7th
+                        Most consecutive matches as captain of a team (69)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        2nd
+                        Fewest ducks in career (85)
+
+                        Twenty20 Internationals
+                    </li>
+                    <li>
+                        6th
+                        Most matches in career (538)
+
+                        Combined Test, ODI and T20I records
+                    </li>
+                    <li>
+                        3rd
+                        Most catches in career (634)
+
+                        Combined Test, ODI and T20I records
+                    </li>
+
+                    <li>
+                        8th
+                        Most nineties in career (11)
+
+                        Combined Test, ODI and T20I records
+                    </li>
+
+                    <li>
+                        1st
+                        Captains who have kept wicket (60)
+
+                        Test matches
+                    </li>
+                    8th
+                    Most matches as captain (60)
+
+                    Test matches
+                    <li>
+                        3rd
+                        Most runs in an innings by a wicketkeeper (224)
+
+                        Test matches
+                    </li>
+                </ul>
+            </article>
+             <code>   void main()
+                {printf("MAHENDRA SINGH DHONI");
+                }</code>
+        </section>
+        <section class="main-section" id="Rahul_Dravid">
+
+            <header>Rahul dravid</header>
+            <article>
+                <p>Rahul Sharad Dravid born 11 January 1973) is a former Indian cricketer and captain of the Indian national team, currently serving as its head coach. Prior to his appointment to the senior men's national team, Dravid was the Head of Cricket at the National Cricket Academy (NCA), and the head coach of the India Under-19 and India A teams</p>
+            <ul>
+                <li>
+
+                    6th
+                    Most matches in career (164)
+
+                    Test matches
+                </li>
+
+                <li>
+
+                    Hundred in each innings of a match
+
+                    Test matches
+                </li>
+
+                <li>
+
+                    Two unbeaten fifties in a match
+
+                    Test matches
+                </li>
+
+                <li>
+
+                    2nd
+                    Most fours in career (1654)
+
+                    Test matches
+                </li>
+
+                <li>
+
+                    2nd
+                    Fastest to 9000 runs (176)
+
+                    Test matches
+                </li>
+
+                <li>
+
+                    5000 runs and 50 fielding dismissals
+
+                    Test matches
+                </li>
+
+                <li>
+                    3rd
+                    Most runs in a calendar year (1761)
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    1st
+                    Dismissed for 99 (and 199, 299 etc) (99)
+
+                    One-Day Internationals
+                </li>
+
+                <li>
+
+                    1st
+                    Most consecutive innings without a duck (120)
+
+                    One-Day Internationals
+                </li>
+
+                <li>
+
+                    2nd
+                    Most catches in an innings (4)
+
+                    One-Day Internationals
+                </li>
+
+                <li>
+
+                    5000 runs and 50 fielding dismissals
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    9th
+                    Most matches in career (509)
+
+                    Combined Test, ODI and T20I records
+                </li>
+
+                <li>
+
+                    5th
+                    Most hundreds in a calendar year (10)
+
+                    Combined Test, ODI and T20I records
+                </li>
+                <li>
+
+                    3rd
+                    Fifties in consecutive innings (7)
+
+                    Combined Test, ODI and T20I records
+                </li>
+                <li>
+
+                    5th
+                    Most fours in career (2604)
+
+                    Combined Test, ODI and T20I records
+                </li>
+                <li>
+                    4th
+                    Most runs in career (13288)
+
+                    Test matches</li>
+                <li>
+                    1st
+                    Most nineties in career (10)
+
+                    Test matches</li>
+
+            </ul>
+             <code>   void main()
+                {printf("RAHUL DRAVID");
+                }</code>
+        </section>
+        <section class="main-section" id="Ravichandran_Ashwin">
+            <header>Ravichandran Ashwin</header>
+            <p>Ravichandran Ashwin (born 17 September 1986) is an Indian international cricketer. An all-rounder who bats right-handed and bowls right-arm off-break, he plays for Tamil Nadu in domestic cricket and Rajasthan Royals in the Indian Premier League.</p><p> He is the fastest Indian bowler (also in some records the joint-fastest in the world) to reach the 50-, 100-, 150-, 200-, 250-, 300-, 350- and 400-wicket mark in Test cricket in terms of number of innings</P>
+            <ul>
+                <li>
+                    2nd
+                    Most player-of-the-series awards (9)
+
+                    Test matches
+                </li>
+                <li>
+
+                    6th
+                    Most ten-wickets-in-a-match in a career (7)
+
+                    Test matches
+                </li>
+                <li>
+
+                    1st
+                    Fastest to 350 wickets (66)
+
+                    Test matches
+                </li>
+                <li>
+
+                    6th
+                    Worst economy rate in an innings (20.50)
+
+                    Twenty20 Internationals
+                </li>
+                <li>
+
+                    10th
+                    Most five-wickets-in-an-innings in a career (30)
+
+                    Combined Test, ODI and T20I records
+                </li>
+                <li>
+
+                    8th
+                    Outstanding bowling analyses in an innings (4/8)
+
+                    Test matches
+                </li>
+                <li>
+
+                    10th
+                    Most wickets taken caught by a fielder (205)
+
+                    Test matches
+                </li>
+                <li>
+
+                    A hundred and five wickets in an innings
+
+                    Test matches
+                </li>
+                <li>
+
+                    5th
+                    Bowler/fielder combinations (10)
+
+                    Twenty20 Internationals
+                </li>
+            </ul>
+             <code>   void main()
+                {printf("RAVI CHANDRAN ASHWIN");
+                }</code>
+        </section>
+        <section class="main-section" id="kapil_dev">
+            <header>kapil dev</header>
+            <p>Kapil Dev Ramlal Nikhanj born 6 January 1959) is an Indian former cricketer. He was a fast-medium bowler and a hard-hitting middle-order batsman, and was named by Wisden as the Indian Cricketer of the Century in 2002.</p>
+            <p>Dev captained the Indian cricket team that won the 1983 Cricket World Cup,[4] and in the process became the first Indian captain to win the Cricket World Cup, and is still the youngest captain (at the age of 24) to win the World Cup for any team.[5] He retired in 1994, at the time holding the world record for the highest number of wickets taken in Test cricket, a record subsequently broken by Courtney Walsh in 2000.</p>
+            <ul>
+                <li>
+                    1st
+                    Best figures in a innings by a captain (9)
+
+                    Test matches
+                </li>
+                <li>
+
+                    2nd
+                    Most wickets taken hit wicket (3)
+
+                    Test matches
+                </li>
+                <li>
+
+                    1000 runs, 50 wickets and 50 catches
+
+                    Test matches
+                </li>
+                <li>
+
+                    1st
+                    Most runs in an innings (by batting position) (175*)
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    2nd
+                    Highest percentage of runs in a completed innings (65.78)
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    6th
+                    Best economy rate in an innings (0.57)
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    1000 runs, 50 wickets and 50 catches
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    8th
+                    Most wickets taken lbw (152)
+
+                    Combined Test, ODI and T20I records
+                </li>
+                <li>
+
+                    8th
+                    Most runs conceded in career (12867)
+
+                    Test matches
+                </li>
+                <li>
+
+                    250 runs and 20 wickets in a series
+
+                    Test matches
+                </li>
+                <li>
+
+                    5000 runs and 50 fielding dismissals
+
+                    Test matches
+                </li>
+                <li>
+
+                    4th
+                    Highest maiden hundred (175*)
+
+                    One-Day Internationals
+                </li>
+                <li>
+
+                    6th
+                    Best figures in a innings by a captain (5)
+
+                    One-Day Internationals
+                </li>
+            </ul>
+             <code>   void main()
+                {printf("KAPIL DEV");
+                }</code>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+html,
+body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: solid;
+  border-color: rgba(0, 22, 22, 0.4);
+}
+
+header {
+  color: black;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thin;
+}
+
+#main-doc header {
+  text-align: left;
+  margin: 0px;
+}
+
+#navbar ul {
+  height: 88%;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#navbar li {
+  color: #4d4e53;
+  border-top: 1px solid;
+  list-style: none;
+  position: relative;
+  width: 100%;
+}
+
+#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: #4d4e53;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#main-doc {
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 110px;
+}
+
+section article {
+  color: #4d4e53;
+  margin: 15px;
+  font-size: 0.96em;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
+}
+
+code {
+  display: block;
+  text-align: left;
+  white-space: pre-line;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+@media only screen and (max-width: 815px) {
+  /* For mobile phones: */
+  #navbar ul {
+    border: 1px solid;
+    height: 207px;
+  }
+
+  #navbar {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-height: 275px;
+    border: none;
+    z-index: 1;
+    border-bottom: 2px solid;
+  }
+
+  #main-doc {
+    position: relative;
+    margin-left: 0px;
+    margin-top: 270px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #main-doc {
+    margin-left: -10px;
+  }
+
+  code {
+    margin-left: -20px;
+    width: 100%;
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 45px;
+    min-width: 233px;
+  }
+}
+
+
+** end of undefined **
+

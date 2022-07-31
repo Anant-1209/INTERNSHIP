@@ -1,0 +1,181 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title">Krishnakumar Kunnath</h1>
+      <p>The man who inspired billion minds</p>
+      <figure id="img-div">
+        <img
+          id="image"
+          src="https://www.pinkvilla.com/files/styles/gallery-preview/public/kk-songs.jpg?itok=VokbsUlZ"
+          alt="Dr. Norman Borlaug seen standing in Mexican wheat field with a group of biologists"
+        />
+        <figcaption id="img-caption">
+           popularly known as KK, was an Indian playback singer. Regarded as one of the best and most versatile singers in India,he recorded songs in several languages, including Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Odia, Bengali, Assamese and Gujarati.
+        </figcaption>
+      </figure>
+      <section id="tribute-info">
+        <h3 id="headline">Here's a time line of kk's life:</h3>
+        <ul>
+          <li><strong>23 August 1968 </strong> - Born in Delhi,india</li>
+          <li>
+            <strong>31 May 2022</strong> - Leaves his family's farm
+          </li>
+          <li>
+            <strong>Vocals and musical style</strong> KK did not have any formal training in music. According to film director Mahesh Bhatt, "KK had an emotional bandwidth which echoed all the seasons of the heart. He could be frivolous, romantic and anguished. He could go into the depths, talk about the wonder and magic of life
+          </li>
+          <li>
+            <strong>Playback singing</strong> - In 1994, KK gave his demo tape to Louis Banks, Ranjit Barot and Lesle Lewis to get a break in the music arena. He was called by UTV and sang a jingle for a Santogen Suiting ad. In a span of four years, he sang more than 3,500 jingles across 11 languages. He considered Lesle Lewis as his mentor for giving him his first jingle to sing in Mumbai. KK then transitioned into a playback singer, starting with A. R. Rahman's "Kalluri Saaley" and "Hello Dr." from Kadir's Kadhal Desam and then "Strawberry Kannae" from AVM Productions's 1997 musical film Minsara Kanavu.
+          </li>
+          <li>
+            <strong>Hindi</strong> -KK made his Bollywood debut with the song "Tadap Tadap Ke Is Dil Se" from Hum Dil De Chuke Sanam (1999). However, prior to this song, he had sung parts of "Chhod Aaye Hum" from Gulzar's Maachis (1996). He considered the song "Tadap Tadap Ke Is Dil Se" the turning point of his career.
+
+KK's popular songs included "Tadap Tadap Ke Is Dil Se" from Hum Dil De Chuke Sanam (1999), the Tamil song "Apadi Podu", "Dola Re Dola" from Devdas (2002), "Kya Mujhe Pyaar Hai" from Woh Lamhe... (2006), "Aankhon Mein Teri" from Om Shanti Om (2007), "Khuda Jane" from Bachna Ae Haseeno (2008), "Piya Aaye Na" from Aashiqui 2 (2013), "Mat Aazma Re" from Murder 3 (2013), "India Wale" from Happy New Year (2014) and "Tu Jo Mila" from Bajrangi Bhaijaan (2015).
+
+KK received six Filmfare Awards nominations, but did not win any. In 2009, he won the Screen Awards, Best Playback Singer – Male, for his song "Khuda Jaane" from the film Bachna Ae Haseeno.
+
+In 2022, KK worked with film maker Srijit Mukherji and veteran lyricist Gulzar on a song for the upcoming film 'Sherdil.
+
+The song 'Dhoop Paani Bahne De', sung by KK for the film 'Sherdil - The Pilibhit Saga', is the first to be released since his death.
+          </li>
+          <li>
+            <strong>Tamil</strong> - KK had sung popular songs in several languages including Tamil. According to Outlook his songs defined the Tamil film music era in the 2000s and his songs became part of Tamil culture. In 2004, his Tamil song "Appadi Podu", became popular across the country and was played at clubs and weddings. In 1997, KK worked with A. R. Rahman for the popular song "Strawberry Kanne".[27]
+
+KK collaborated with Tamil music directors Harris Jayaraj and Yuvan Shankar Raja among others and released successful songs linked with Tamil pop culture in the 2000s. KK had a decade of successful hit songs in the 2000s. He sang "Love Pannu" for Harris Jayaraj in 2001, followed by "Kadhal Oru Thani Katchi" and "Gundu Gundu Ponne". In 2003, he had two major hits composed by Harris Jayaraj - 'Uyirin Uyire', and 'Kalyanam Dhaan Kattitkittu'. "Uyirin Uyire" was popular in the city, while "Kalyanam Dhaan Kattitkittu" became popular across Tamil Nadu
+          </li>
+          <li>
+            <strong>Albums</strong> -In 1999, Sony Music had just been launched in India and was looking to launch a new artiste. KK was selected and released his debut solo album titled Pal with music composed by Lesle Lewis from the duo Colonial Cousins, who also arranged and produced the album.[6] Pal featured a melodious pop rock sound.[28] The songs "Aap Ki Dua", "Yaaron" and the title track "Pal" were instant hits with audiences and on the music charts. The songs "Pal" and "Yaaron" now frequently feature in school farewells.[29] Pal got KK the Screen award as best singer.
+          </li>
+          <li>
+            <strong>Television</strong> - KK sang many songs for television serials, such as Just Mohabbat, Shaka Laka Boom Boom, Kuch Jhuki Si Palkein, Hip Hip Hurray, Kkavyanjali and Just Dance.[32] He appeared on television as a jury member for the talent hunt show Fame Gurukul.[33]
+
+KK sang a song named "Tanha Chala" for the Pakistani TV show The Ghost which was aired on Hum TV in 2008. The song was composed by Farrukh Abid and Shoiab Farrukh, and Momina Duraid wrote the lyrics.[34]
+          </li>
+          <li>
+            <strong>Death</strong> - On 31 May 2022, KK performed a live music concert in a college festival at Nazrul Mancha auditorium, in South Kolkata.[42] After the concert, he returned to his hotel in Esplanade. He complained of feeling unwell soon after his performance on the way back to his hotel, where he had a cardiac arrest. He collapsed, and efforts to revive him at the hotel were unsuccessful.[43] He was rushed to Calcutta Medical Research Institute (CMRI) at around 10:30 pm, where he was declared dead.[44][45] He was 53 years old at the time of his death.[
+          </li>
+          <li>
+            <strong>Funeral</strong> -KK was given a gun salute by the West Bengal government at Rabindra Sadan in Kolkata.[53] Chief Minister of West Bengal, Mamata Banerjee was also present in the gun salute ceremony. Film and music industry personalities and politicians including Prime Minister Narendra Modi offered their condolences.[54] His remains were then brought to Mumbai[54] and his funeral was held at the Versova Hindu Cemetery on the following day, 2 June. It was attended by family members, friends and colleagues.
+          </li>
+       
+       
+        <h3>
+          If you have time, you should read more about this incredible human
+          being on his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/KK_(singer)"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+  font-size: 10px;
+}
+
+body {
+ 
+  font-family:  BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  font-size: 3.25rem;
+}
+
+a {
+  color: #477ca8;
+}
+
+a:visited {
+  color: #74633f;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1.4rem;
+  }
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+
+
+** end of undefined **
+
